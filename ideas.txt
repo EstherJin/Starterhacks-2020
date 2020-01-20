@@ -1,4 +1,5 @@
 Ideas to do With Data:
 
-- Are project names with special charas more successful?
+- Are project names with special charas more successful in terms of 
+usd pledge.
 - saidjasidj
